@@ -12,4 +12,4 @@ myEmitter.on('birthday', (gift, nobike) => {
 });
 
 
-myEmitter.emit('birthday', 'watch', 'bike')
+myEmitter.emit('birthday', 'watch', 'bike');
